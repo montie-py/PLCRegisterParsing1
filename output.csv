@@ -1,0 +1,2 @@
+seconds_counter,minutes_counter,valve1_open,motor_on,pump_on,flow_meter_1_screen,alert_flag_1,alert_flag_2,shutdown_flag,heater_status
+13,23,0,0,0,0,0,0,0,0
